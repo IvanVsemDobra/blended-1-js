@@ -6,6 +6,7 @@ export default function App() {
     <>
       <Section>
         <Container>{/* Компоненти застосунку */}</Container>
+        Home page
       </Section>
     </>
   );
